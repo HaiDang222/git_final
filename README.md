@@ -1,3 +1,3 @@
 # git_final
 
-This is my project
+© 2021 XYZ, Inc.
